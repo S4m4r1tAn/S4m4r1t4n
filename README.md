@@ -1,7 +1,7 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
 
 <h1 align="center">Eae, beleza🖖🏽👽?</h1>
-<p>Meu nome é Emerson e sou Bacharel em Administração de Empresas com ênfase em Comércio Exterior, em processo de migração para a área de tecnologia da informação.
+<p>Meu nome é Emerson e sou Bacharel em Administração de Empresas com ênfase em Comércio Exterior. Estou em processo de migração para a área de tecnologia da informação.
     
 Atualmente sou estudante de Introdução à Programação com Python pela Harvard University.
 
@@ -44,7 +44,11 @@ Atualmente sou estudante de Introdução à Programação com Python pela Harvar
         </a> 
         <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
         </a>
-        <a href="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+        <a href="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+        </a>
+        <a href="https://www.youtube.com/channel/UCfel6cN-SLGiWRjXs1uSi1Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+        </a>
+        <a href="https://www.twitch.tv/54m4r1t4N" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
         </a>
 </div>
 
