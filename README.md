@@ -55,7 +55,7 @@ Atualmente sou estudante de Introdução à Programação com Python pela Harvar
 
  <div align="center">
     
-   ![Snake animation](https://github.com/S4m4r1t4n/S4m4r1t4n/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/SamuelFLM/SamuelFLM/blob/output/github-contribution-grid-snake.svg)
 
   </div>
 
