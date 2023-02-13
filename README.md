@@ -1,4 +1,4 @@
-<img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif">
+<img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://media.tenor.com/60s1c6i6PpYAAAAC/wearelegend.gif">
 
 <h1 align="center">Eae, beleza🖖🏽👽?</h1>
 <p>Meu nome é Emerson e sou Bacharel em Administração de Empresas com ênfase em Comércio Exterior. Estou em processo de migração para a área de tecnologia da informação.
