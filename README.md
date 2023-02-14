@@ -1,12 +1,15 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://media.tenor.com/60s1c6i6PpYAAAAC/wearelegend.gif">
 
-<h1 align="center">Eae, beleza🖖🏽👽?</h1>
-<p>Meu nome é Emerson e sou Bacharel em Administração de Empresas com ênfase em Comércio Exterior. Estou em processo de migração para a área de tecnologia da informação. Fan de Programação, Automação, Cyber Segurança e Inteligência Artificial.
+<h1 align="center">Olá🖖🏽👽!!!</h1>
+<p>Meu nome é Emerson e sou Bacharel em Administração de Empresas com ênfase em Comércio Exterior. 
+<p>A um ano iniciei uma transição para a área de tecnologia. 
+<p>Sou apaixonado por Computadores, Automação, Cibersegurança e Inteligência Artificial. 
+<p>->Atualmente estou estudando⤵️:
     
-1) Atualmente sou estudante de Introdução à Programação com Python pela Harvard University.
+1) Introdução à Programação com Python pela Harvard University.
 2) Dev Aprender - Pythonista Autodidata
 3) Dev Aprender - Mestres da Automação
-4) Microsoft - Fundamentos da Plataforma Power Apps | Dynamics 365
+4) Microsoft - Fundamentos da Plataforma Power Apps | Dynamics
     
     
 </p>
