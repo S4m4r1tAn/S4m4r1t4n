@@ -34,6 +34,17 @@
 |**Database** |  <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white"> <img align="center" alt="SQLITE" height="30"  src="https://img.shields.io/badge/Sqlite-862d59?style=for-the-badge&logo=Sqlite&logoColor=white"> <img align="center" alt="postgre" height="30"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">|
 |**Ferramentas** | <img align="center" alt="postaman" height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img align="center" alt="git" height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="selenium" height="30" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img align="center" alt="railway" height="30" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"> <img align="center">|
 <a>
+    <div style="display: inline_block"><br>
+  <img align="center" alt="Dev-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Pandas" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="PostgreSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="SQLAlchemy" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
+  <img align="center" alt="Selenium" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">     
+  <img align="center" alt="VSCode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+ 
+    
+</div>
     <h1 align="center">
        Contatos
         </a>
