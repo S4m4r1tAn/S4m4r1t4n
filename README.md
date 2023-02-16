@@ -29,6 +29,7 @@
 
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
+|**Front-End** | <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 | **Back-End** |  <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="flask" height="30" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img align="center" alt="django" height="30" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">|
 |**Cloud** | <img align="center" alt="AWS" height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">|
 |**Database** |  <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white"> <img align="center" alt="SQLITE" height="30"  src="https://img.shields.io/badge/Sqlite-862d59?style=for-the-badge&logo=Sqlite&logoColor=white"> <img align="center" alt="postgre" height="30"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">|
