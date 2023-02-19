@@ -6,10 +6,11 @@
 <p>Sou apaixonado por Computadores, Automação, Cibersegurança e Inteligência Artificial. 
 <p>->Atualmente estou estudando⤵️:
     
-1) Introdução à Programação com Python pela Harvard University.
-2) Dev Aprender - Pythonista Autodidata
-3) Dev Aprender - Mestres da Automação
-4) Microsoft - Fundamentos da Plataforma Power Apps | Dynamics
+1) Introdução à Ciência da Computação usando Python pelo MIT.
+2) Introdução à Programação com Python pela Harvard University.
+2) Dev Aprender - Pythonista Autodidata.
+3) Dev Aprender - Mestres da Automação.
+4) Microsoft - Fundamentos da Plataforma Power Apps | Dynamics.
     
     
 </p>
@@ -36,7 +37,6 @@
 |**Ferramentas** | <img align="center" alt="postaman" height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img align="center" alt="git" height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="selenium" height="30" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img align="center" alt="railway" height="30" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"> <img align="center"> <img align="center" alt="heroku" height="30" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">|
 <a>
     <div style="display: inline_block"><br>
-  <img align="center" alt="Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="PostgreSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="SQLAlchemy" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
