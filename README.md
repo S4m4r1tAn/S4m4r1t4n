@@ -1,9 +1,38 @@
 <img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://media.tenor.com/60s1c6i6PpYAAAAC/wearelegend.gif">
 
-<h1 align="center">Olá🖖🏽👽!!!</h1>
+<h1 align="center">Hey Dev's! <br>
+Bem vindo ao meu perfil🖖🏽👽!!!</h1>
 <p>Meu nome é Emerson e sou Bacharel em Administração de Empresas com ênfase em Comércio Exterior. 
-<p>A um ano iniciei uma transição para a área de tecnologia. 
+<p>A um ano iniciei minha transição para a área de tecnologia. 
 <p>Sou apaixonado por Computadores, Automação, Cibersegurança e Inteligência Artificial. 
+
+
+<div>
+
+```python
+
+from life import Creativity
+
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "___"
+        self.open_for_opportunity = True
+
+    def current_projects(self):
+        self.currently_learning = "Python & Django 📚"
+        self.currently_working_on = "SQL 🌱"
+        self.excited_for = "BlockChain 🌎"
+
+    def contact_me(self):
+        self.email = "emerson_guimaraes@hotmail.com"
+
+if '__repo__' == '__helpful__':
+    star.it()
+    fork.it()
+```
+
+</div>
+
 <p>->Atualmente estou estudando⤵️:
     
 1) Introdução à Ciência da Computação usando Python pelo MIT.
@@ -15,17 +44,19 @@
     
 </p>
 
+## 📊 Dê uma olhada nas minhas estatísticas:
+<!-- GITHUB STATUS -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4m4r1t4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4m4r1t4n&layout=compact&langs_count=10&theme=dracula"/>
 
-| ![](https://github-readme-stats.vercel.app/api?username=S4m4r1t4n&show_icons=true&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S4m4r1tAn&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S4m4r1tAn&theme=dracula) |
-| :-: | :-: | :-: |
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S4m4r1tAn&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=S4m4r1tAn&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
-
-
+ 
 ##
 
-<h1 align="center">Linguagens e ferramentas:</h1>
+<h1 align="center">💻 Linguagens e Ferramentas 🛠️:</h1>
 <div style="display: inline_block;" align="center">
 
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
@@ -47,7 +78,7 @@
     
 </div>
     <h1 align="center">
-       Contatos
+       💬 Contatos
         </a>
     </h1>
     <div align="left">
