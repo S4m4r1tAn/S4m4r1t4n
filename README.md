@@ -45,17 +45,17 @@ if '__repo__' == '__helpful__':
 </p>
 
 ## 📊 Dê uma olhada nas minhas estatísticas:
-<!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4m4r1t4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4m4r1t4n&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=S4m4r1t4n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4m4r1t4n&layout=compact&langs_count=10&theme=dracula"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
 </div>
 
  
 ##
-S4m4r1t4n
+
 <h1 align="center">💻 Linguagens e Ferramentas 🛠️:</h1>
 <div style="display: inline_block;" align="center">
 
