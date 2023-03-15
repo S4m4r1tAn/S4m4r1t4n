@@ -11,24 +11,25 @@ Bem vindo ao meu perfil🖖🏽👽!!!</h1>
 
 ```python
 
-from life import Creativity
+from vida import Criatividade
 
-class Life(Creativity):
-    def __init_life__(self):
-        self.current_job_title = "___"
-        self.open_for_opportunity = True
+class vida(Creatividade):
+    def __init_vida__(self):
+        self.cargo_atual = "Desenvolver_Python"
+        self.procurando_oportunidades = True
 
-    def current_projects(self):
-        self.currently_learning = "Python & Django 📚"
-        self.currently_working_on = "SQL 🌱"
-        self.excited_for = "BlockChain 🌎"
+    def projetos(self):
+        self.aprendendo = "Python_Django_PySimpleGUI 📚"
+        self.trabalhando_com = "SQLite_PostgreSQL 🌱"
+        self.futuro_aprendizado = "BlockChain_Kubernetes 🌎"
 
-    def contact_me(self):
+    def contato(self):
         self.email = "emerson_guimaraes@hotmail.com"
 
-if '__repo__' == '__helpful__':
-    star.it()
+if '__repo__' == '__muito_util__':
+    start.it()
     fork.it()
+    start.it()
 ```
 
 </div>
