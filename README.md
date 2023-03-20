@@ -15,7 +15,7 @@ from vida import Criatividade
 
 class vida(Creatividade):
     def __init_vida__(self):
-        self.cargo_atual = "Desenvolver_Python"
+        self.cargo_atual = "Desenvolver_Python_Junior"
         self.procurando_oportunidades = True
 
     def projetos(self):
